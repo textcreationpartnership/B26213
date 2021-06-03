@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for statesmen, wherein they may clearely see the reward of their severall actings.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26213</idno><idno type="EEBO-CITATION">99886100</idno>
+  <idno type="VID">185918</idno>
+  <idno type="EEBO-PROQUEST">2248535170</idno>
+  
+            <idno type="STC">Wing L3027</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[79]</idno>
+            <idno type="STC">ESTC R225403</idno>
+            <idno type="PROQUEST">ocm99886100</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886100e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185918)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for statesmen, wherein they may clearely see the reward of their severall actings.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.H.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185918:1"/>
+            <head>A Looking-Glasse for Statesmen, Wherein they may clearely see the reward of their severall Actings.</head>
+            <p>
+               <figure>
+                  <figDesc>a group of men, labelled Daniell, Moses, Joseph, Sidrack, Meshack, Abednego, Mordecai, and Nehemia</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>two arms appearing out of the clouds</figDesc>
+                  <head>יהוה</head>
+               </figure>
+               <figure>
+                  <figDesc>five men, each being executed in a different way, labelled Haman, Saull, Strauford, Achitophel, and Laud</figDesc>
+               </figure>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>He several Actings of men when formed, proceed from one of these two Principles; either from <hi>Divine Wisdome,</hi> or <hi>Humane Prudence,</hi> and sometimes from both: Now when <hi>Divine Wisdome</hi> doth act singly, and alone, it oftentimes (by the <hi>Prudentiall</hi>) is judged weaknes or folly, but the conclusion is alwayes in Honour, Peace, and Safety: <hi>Humane Prudence,</hi> when it relateth simply to the Actor, and not to the prejudice of another, is of great use to the owner; as when <hi>to eat,</hi> when <hi>to drink, to worke, to sleep, to wake, to buy, to sell, to marry, or give in marriage:</hi> in any of these, or the like, it is an ornament of great price, when rightly mannaged: But when it layes about it to com<g ref="char:EOLhyphen"/>passe designes for it selfe, that tendeth to the hurt of another, it proveth most pernicious and destructive unto the Actor, to whom it promiseth great honour, and full content<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: As by these following examples on your right hand, doth manifestly appeare.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e lascivious Courtier doth laugh at the sillie chastity of <hi>Joseph,</hi> (as he accounts it) to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>se such a favour from his Mistresse as he did, but being only acted by <hi>Divine Wisdome,</hi> conclusion be a sufficient ground for us to beware how we trespass upon <hi>divine Justice.</hi>
+            </p>
+            <p>
+               <hi>MOses</hi> had little reason to slight such an Inheritance as the Crown of <hi>Egypt,</hi> for a re<g ref="char:EOLhyphen"/>version of Honour, amongst poor Captive <hi>Bondmen.</hi>
+            </p>
+            <p>
+               <hi>DAniel</hi> might very prudently have shut his Windowes, and so have saved himselfe from the <hi>Lyons Denne.</hi>
+            </p>
+            <p>
+               <hi>MOrdecai</hi> might have allowed <hi>Haman</hi> his <hi>Negative Voice</hi> in State businesse, and cut him a Congee with a bended Knee, rather then expose himselfe, and the Nation to a <hi>Halter.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Hidrach, Meshack,</hi> and <hi>Abednego,</hi> might have clawed the <hi>King by the Elbow,</hi> and have told him <hi>that he was Supream Head and Governour, over all Persons, and all Causes,</hi> might by his Prerogative <hi>frame them any Religion to worship God by;</hi> and not have expo-themselves to the fury of the Furnace.</p>
+            <p>
+               <hi>NEhemiah</hi> might have Voted as the Courtiers did, and needed not to have lookt thinne upon the matter, because his Bretheren were not fully delivered from their thraldom, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r being in favour with the King, he might easily have gotten <hi>twenty hundred pounds a yeare <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Him,</hi> and <hi>His Heires</hi> for ever, and suffered the <hi>Poor Commons</hi> to shift for themselves.</p>
+            <p>ONe President more, but of a different kind, that in this acted by <hi>Humane Prudence,</hi> and is proper to be rancked in the other Page; but that his Motto is, <hi>Neverthelesse his heart is upright in all things, save in the matter of Ʋriah: DAVID,</hi> when he had commit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> folly with <hi>Vriah's</hi> wife, to cover his basenes, began to act prudentially; and therefore sent <hi>Vriah</hi> to come to Court, where he is kindly entertained, and made much of; and seeing his <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ary March will not prevaile with him to be a Cloake to the Design in hand, it is likely that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>od Liquor will enliven his Spirits to be Cornuted: But seeing this will not take; <hi>Prudence</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rcheth forth unto bloud, and <hi>Ʋriah</hi> is slain: Now <hi>David</hi> acts to some purpose: A great <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urning is celebrated for worthy <hi>Vriah;</hi> and because his lame Soldiers should not beg in the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ts, nor the Widowes of the slain Commanders wait at the Parliament dore for reliefe; <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s sent for and made his wife: And that his great love unto <hi>Vriah</hi> might more clearly ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> see, how he that formerly had slain a Beare, and a Lyon, is worse then either, unto the <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nites,</hi> who it is probable had Artickled with <hi>Joab</hi> for the surrender of the City upon <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> yet because they had slain in Battel, a valliant Captain whom he so dearely loved, they <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of unheard of cruelty in cold blood. Now see what followes: The next newes we of, <hi>Amnon</hi> his son, defileth <hi>Tamar</hi> his sister; <hi>Absolom</hi> his darling son, murthers his bro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Amnon:</hi> A spirit of <hi>Stupidity</hi> possessed <hi>David,</hi> so that Justice is neglected, and having <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g Guard thought himselfe secure: <hi>Absolom</hi> hath gotten the Throne: When restored, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>k in Battell that <hi>Abishai</hi> must sucour him: His Bed was turned into a quagmire; the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n his Bones made him roare; his moysture was like the Drought in Summer, and being <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ty yeares old must have a Virgin to keep him warm: <hi>A dear bought Bargain.</hi> No <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n will by <hi>Humane Prudence</hi> be advised to shunne shame at so deare a rate; <hi>for had <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ure mercies of God</hi> extended unto <hi>David,</hi> and kept him, he might have perished, as</p>
+            <p>WHen King <hi>Saul</hi> was dethroned by <hi>Samuel,</hi> and <hi>David</hi> his Son in law was exalted, he might have had honourable quarter from him during his life; for <hi>David</hi> thought it honour enough to be his <hi>Armour-bearer,</hi> and take Orders from him: But when the women in their Songs gave <hi>David</hi> their prayses <hi>ten</hi> for <hi>one,</hi> then <hi>Saul</hi> beginnes to Act prudentially: Nothing will satisfy blood-thirsty <hi>Saul,</hi> but the life of <hi>David,</hi> though sometime his integrity did force from him an abundance of hipocriticall teares: but note his conclusion.</p>
+            <p>A <hi>Chitophel</hi> was in his Generation never accounted of as a Fool, or a Thin-Pate, but tis said of him, <hi>that his Councels were so infallible, as the Oracles of God;</hi> and therefore sayes <hi>David, Except thou go back, and destroy the good councel of</hi> Achitophei <hi>we cannot be safe:</hi> And you may see, had it been followed, how dangerous it was. Now this man, so infallibly wise, and also a professor formerly of Godliness, as <hi>David</hi> witness<g ref="char:EOLhyphen"/>eth, <hi>We took sweet councel together in the House of God, we eat bread as familiar friends, that thou sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uldest lift up the Heel against me, is intolerable:</hi> That this man, so qualli<g ref="char:EOLhyphen"/>fyed, should by <hi>Humane Prudence</hi> put in for a share in so horrid a Treachery, and for<g ref="char:EOLhyphen"/>get so good a Master, in giving such dangerous councell, and taking up such bloody re<g ref="char:EOLhyphen"/>solutions against the person of his Lord; were it recorded in prophane history, would hardly be beleeved; but behold his Figure: he had so much honesty left him, as to save the Hangman a labour.</p>
+            <p>
+               <hi>HAman</hi> came short of no man in his time, but the King only: He wanted neither power, wealth, favour, nor councel, to accomplish his designes, and compleat his Honour but only to supple the Sinewes of <hi>Mordecaies</hi> stiffe knees, which would not bend before him: He now consults with his Councel how to quit himselfe of the whole Rabble of those <hi>Agitating Jewes:</hi> marke well the end of his Tragedy.</p>
+            <p>
+               <hi>LAud,</hi> we well remember was on his Mountain so strong, that he was in his thoughts unmoveable; and up make himselfe sure, sent the Dr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mer to Tyburn; but before the flesh was off his Bones, himselfe had a receipt from the same Chirurgion.</p>
+            <p>UNmoveable <hi>Strafford,</hi> who wanted nothing to secure greatnes, but goodnes, was unexpectedly thrown off his mountain, <hi>notwithstanding his Martiall power over the lives of men that stood in his way.</hi>
+            </p>
+            <p>THese few examples I have drawn forth before your view (honourable Statesmen) And if you thinke it Wisdome to trade in <hi>Humane Prudence,</hi> to the prejudice of o<g ref="char:EOLhyphen"/>thers, the best pennieworth that you can expect in this Market, you may find in <hi>David;</hi> and if you like it, <hi>much good do you:</hi> but unlesse with him you water your Couch with Teares, your portion is in this Page. For here stands the Case: when men have formed an Action, that will not hold weight at the Beame of Justice; <hi>Divine Wisdome</hi> being the Judge, if the action relate unto the prejudice of another, <hi>Divine Vengeance</hi> sendeth its Warrant unto <hi>Divine Justice,</hi> to Attach the person Delinquent, and no Baile to be taken, but <hi>an Eye for an Eye, a Tooth for a Tooth, and he that sheddeth mans blood</hi> by colour of Law, as did <hi>Ahab</hi> by the councell of <hi>Jezabel,</hi> and <hi>Laud</hi> in our dayes, shall surely speed as they did: And say not in your selves wee see their errours and will shunne them, by standing on their shoulders, (so you may now their Heads are off) and we will accom<g ref="char:EOLhyphen"/>plish our designes we have projected: <hi>Be not deceived ye great Ones, whom God beholds,</hi> God is not mocked, <hi>look what you sow in the Furrowes of Iniquity, you shall be sure to reap in the Crop of Ʋanity:</hi> But if you Plow by the Rule of <hi>Divine Wisdome</hi> and <hi>Ju<g ref="char:EOLhyphen"/>stice,</hi> you shall reap <hi>Honour</hi> and <hi>Peace</hi> that is immortall, immutable, and glorious: <hi>There<g ref="char:EOLhyphen"/>fore cease to do evil, learn to do well, seek judgment, relieve the oppressed, judge the fa<g ref="char:EOLhyphen"/>therlesse,, plead for the Widow, set the Prisoner free,</hi> and then you shall not have cause to feare the face of man, or dread the mallice of your adversaries.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for I. H. in the yeare 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
